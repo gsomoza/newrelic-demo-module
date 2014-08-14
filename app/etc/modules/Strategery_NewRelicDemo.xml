@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Strategery_NewRelicDemo>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Cms/>
+            </depends>
+        </Strategery_NewRelicDemo>
+    </modules>
+</config>

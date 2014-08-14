@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<widgets>
+    <featured_products_urls type="strategery_newrelicdemo/widget_featured">
+        <name>Featured Products URL List</name>
+        <description type="desc">Shows a list of featured products</description>
+        <parameters>
+            <render_mode translate="label">
+                <required>1</required>
+                <visible>1</visible>
+                <label>Render Mode</label>
+                <type>select</type>
+                <values>
+                    <slow translate="label">
+                        <value>slow</value>
+                        <label>Slow</label>
+                    </slow>
+                    <fast translate="label">
+                        <value>fast</value>
+                        <label>Fast / Optimized</label>
+                    </fast>
+                </values>
+            </render_mode>
+        </parameters>
+    </featured_products_urls>
+</widgets>

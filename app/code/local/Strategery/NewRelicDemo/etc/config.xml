@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Strategery_NewRelicDemo>
+            <version>0.1.0</version>
+        </Strategery_NewRelicDemo>
+    </modules>
+    <global>
+        <blocks>
+            <strategery_newrelicdemo>
+                <class>Strategery_NewRelicDemo_Block</class>
+            </strategery_newrelicdemo>
+        </blocks>
+        <helpers>
+            <strategery_newrelicdemo>
+                <class>Strategery_NewRelicDemo_Helper</class>
+            </strategery_newrelicdemo>
+        </helpers>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <strategery_newrelicdemo>
+                    <file>strategery_newrelicdemo.xml</file>
+                </strategery_newrelicdemo>
+            </updates>
+        </layout>
+    </frontend>
+</config>
