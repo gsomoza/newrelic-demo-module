@@ -1,8 +1,7 @@
 NewRelic Magento Demo Module
 ====================
 
-This is a demonstration module created to accompany a guest post in the NewRelic Blog. A link to the post will be
-supplied when available.
+This is a demonstration module created to accompany a guest post in the NewRelic blog: [Debugging Magento Performance with New Relic](https://blog.newrelic.com/2014/08/25/magento-strategery-debugging/)
 
 The module creates a Magento Widget that can be inserted into any CMS page or Static Block. It shows a list with links
 to all products that are marked with the custom attribute "featured". The custom attribute must be created and
